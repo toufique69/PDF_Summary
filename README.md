@@ -3,6 +3,9 @@
 ## Overview
 The Real-Time PDF Summarization Chatbot is a web application that allows users to upload PDF files and interact with the content in a conversational style, similar to ChatGPT. The application reads and summarizes the content of the uploaded PDFs and provides answers to user queries in real-time.
 
+![1](https://github.com/toufique69/PDF_Summary/assets/13836636/0678da0e-e6df-44e4-a3ce-740d4ce3931c)
+
+
 ## Features
 - **PDF Upload**: Users can upload multiple PDF files.
 - **Real-Time Summarization**: The application processes and summarizes the content of the PDFs in real-time.
